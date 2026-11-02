@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "renderborder",
+  "version": "${version}",
+  "name": "Render Border",
+  "description": "Shows the vanilla world border at the edge of your render distance.",
+  "environment": "client",
+  "mixins": ["renderborder.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

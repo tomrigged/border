@@ -1,6 +1,8 @@
 {
   "pack": {
-    "description": { "text": "Render Border: blauwe strepen" },
+    "description": {
+      "text": "Render Border: blauwe strepen"
+    },
     "min_format": 71,
     "max_format": 2048
   }

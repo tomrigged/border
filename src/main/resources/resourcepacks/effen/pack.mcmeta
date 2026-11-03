@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": {
+      "text": "Render Border: effen"
+    },
+    "min_format": 71,
+    "max_format": 2048
+  }
+}
